@@ -1,11 +1,9 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { Stage, Layer, Image, Text } from 'react-konva';
 import useImage from 'use-image';
 import dark from './imgs/dark.jpg'
 import misty from './imgs/misty.jpg'
-import mossy from './imgs/mossy.jpg'
 import trail from './imgs/trail.jpg'
-import wooded from './imgs/wooded.jpg'
 import './App.css';
 
 import Option from './shapes/option';
@@ -13,9 +11,9 @@ import Option from './shapes/option';
 const images = [
   dark,
   misty,
-  mossy,
+  dark,
   trail,
-  wooded,
+  dark,
 ];
 
 const options = [
