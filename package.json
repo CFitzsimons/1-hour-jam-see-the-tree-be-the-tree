@@ -2,7 +2,7 @@
   "name": "testing",
   "version": "0.1.0",
   "private": true,
-  "homepage": "/19-sept-1hour",
+  "homepage": "/1-hour-jam-see-the-tree-be-the-tree",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
